@@ -2,5 +2,5 @@
 cd backend
 node index.js
 
-#to run the frontend
+# to run the frontend
 open index.html
